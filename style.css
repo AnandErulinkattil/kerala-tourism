@@ -10,7 +10,7 @@
 .navbar{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 20px;
-    background-color: rgba(211, 240, 106, 0.6);
+    background-color: rgb(248, 248, 246, 0.8);
 }
 .navbar-brand{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -25,7 +25,7 @@
     font-size: medium;
 }
 nav ul li :hover{
-    background-color: rgb(151, 253, 17)
+    background-color: rgb(151, 253, 17, 0.4)
 }
 
 
@@ -36,15 +36,6 @@ nav ul li :hover{
     text-shadow: 1px 1px 1px #200a0a;
     color: rgb(250, 251, 252);
 }
-.formFooter {
-    display: flex;
-    background-color: #f6f6f6;
-    border-top: 1px solid #dce8f1;
-    padding: 25px;
-    justify-content: space-between;
-    -webkit-border-radius: 0 0 10px 10px;
-    border-radius: 0 0 10px 10px;}
-
     .districtbgclr{
         background-color: rgba(240, 245, 247, 0.9);
         font-weight: 600; 
